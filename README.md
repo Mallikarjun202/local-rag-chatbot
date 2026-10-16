@@ -18,7 +18,7 @@ I built it to learn how retrieval-augmented generation actually behaves outside 
 You need Python 3.13 or newer (I've tested on 3.13 and 3.14) and at least one API key. Groq and Google AI Studio both have free tiers.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/local-rag-chatbot.git
+git clone https://github.com/Mallikarjun202/local-rag-chatbot.git
 cd local-rag-chatbot
 python -m venv venv
 venv\Scripts\activate          # macOS/Linux: source venv/bin/activate
