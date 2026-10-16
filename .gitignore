@@ -1,0 +1,21 @@
+# secrets
+.env
+
+# python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# local data: search indexes are rebuilt from your own uploads
+data/
+
+# local output
+eval_results.json
+chat-*.md
+
+# editor / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
